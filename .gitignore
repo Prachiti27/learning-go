@@ -27,6 +27,8 @@ coverage.out
 .env
 .env.local
 
+storage
+
 # IDE / Editor files
 .vscode/
 .idea/
@@ -36,3 +38,5 @@ coverage.out
 # OS files
 .DS_Store
 Thumbs.db
+
+api/config/
